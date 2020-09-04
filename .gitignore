@@ -26,6 +26,9 @@
 *.a
 *.lib
 
+# Debug file
+*Debug*
+
 # Executables
 *.exe
 *.out
